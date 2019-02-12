@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-      <div style={{ width: `300px`, height: `300px` }}>
+      <div style={{ width: `300px`, height: `auto`, marginBottom: `30px` }}>
         <Image />
       </div>
       <ul className="social-icons">

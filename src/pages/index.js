@@ -12,17 +12,17 @@ const IndexPage = () => (
       </div>
       <ul className="social-icons">
         <li>
-          <a href="https://github.com/jeffaustin81" target="_blank">
+          <a href="https://github.com/jeffaustin81" target="_blank" rel="noopener noreferrer">
             <span className="fab fa-github-square"></span>
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/jefferyaustin" target="_blank">
+          <a href="https://www.linkedin.com/in/jefferyaustin" target="_blank" rel="noopener noreferrer">
             <span className="fab fa-linkedin"></span>
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/jeffaustin81" target="_blank">
+          <a href="https://twitter.com/jeffaustin81" target="_blank" rel="noopener noreferrer">
             <span className="fab fa-twitter-square"></span>
           </a>
         </li>

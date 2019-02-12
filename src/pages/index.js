@@ -12,13 +12,13 @@ const IndexPage = () => (
       </div>
       <ul className="social-icons">
         <li>
-          <a href="https://www.linkedin.com/in/jefferyaustin" target="_blank">
-            <span className="fab fa-linkedin"></span>
+          <a href="https://github.com/jeffaustin81" target="_blank">
+            <span className="fab fa-github-square"></span>
           </a>
         </li>
         <li>
-          <a href="https://github.com/jeffaustin81" target="_blank">
-            <span className="fab fa-github-square"></span>
+          <a href="https://www.linkedin.com/in/jefferyaustin" target="_blank">
+            <span className="fab fa-linkedin"></span>
           </a>
         </li>
         <li>
